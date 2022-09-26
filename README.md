@@ -11,7 +11,7 @@
     Local Email Testing on Linux, MacOS & Windows
     <br />
     <br />
-    <a href="https://tecdiary.net/products/email-testing-application">Download</a>
+    <a href="https://tecdiary.net/download/email-testing-app">Download</a>
     ·
     <a href="https://github.com/Tecdiary/EmailTestingApp/issues/new">Report Bug</a>
     ·
